@@ -13,12 +13,12 @@ There are 46 different topics, some of which are more represented than others. B
 So in this project, you will build a MLP feed-forward neural network to classify Reuters newswires into 46 different mutually-exclusive topics.
 
 # Tasks :
-Task 1: Project Overview and Import Libraries
-Task 2: Load the Reuters Dataset
-Task 3: Vectorize Sequences and One-hot Encode Class Labels
-Task 4: Build Multilayer Perceptron Model
-Task 5: Train Model
-Task 6: Evaluate Model on Test Data
+1. Project Overview and Import Libraries
+2. Load the Reuters Dataset
+3. Vectorize Sequences and One-hot Encode Class Labels
+4. Build Multilayer Perceptron Model
+5. Train Model
+6. Evaluate Model on Test Data
 
 # Skills :
 1. Data Science
